@@ -466,6 +466,8 @@
   "LabelSettingsHideSingleBookSeriesHelp": "Séries com um só livro serão ocultadas na página de séries e na prateleira de séries na página principal.",
   "LabelSettingsHomePageBookshelfView": "Usar visão estante na página principal",
   "LabelSettingsLibraryBookshelfView": "Usar visão estante na página da biblioteca",
+  "LabelSettingsOnlyShowLaterBooksInContinueSeries": "Pular livros anteriores em Continuar Série",
+  "LabelSettingsOnlyShowLaterBooksInContinueSeriesHelp": "A prateleira Continuar Série na página principal de exibe o primeiro livro não iniciado em uma série que tem pelo menos um livro concluído e nenhum livro em andamento. Ativar essa configuração irá continuar a série a partir do livro mais recentemente concluído ao invés do primeiro livro não iniciado.",
   "LabelSettingsParseSubtitles": "Analisar subtítulos",
   "LabelSettingsParseSubtitlesHelp": "Extrair subtítulos do nome da pasta do audiobook.<br>Subtítulo deve estar separado por \" - \"<br>ex: \"Título do Livro - Um Subtítulo Aqui\" tem o subtítulo \"Um Subtítulo Aqui\"",
   "LabelSettingsPreferMatchedMetadata": "Preferir metadados consultados",
